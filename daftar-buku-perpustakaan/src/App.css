@@ -81,3 +81,8 @@ button:hover {
     padding: 20px;
   }
 }
+
+.kartu:hover {
+  background-color: #e8f1fc;
+  transition: 0.3s;
+}
